@@ -79,11 +79,9 @@ This repository contains lab submission documentation and code for cross-platfor
 
 ## ✍️ Author
 
-Geeta  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-geetaseshapalli)  
-Cross-Platform Mobile Application Development Lab Submissions
-
----
+**Geeta Seshapalli**  
+🔗 [LinkedIn](https://www.linkedin.com/in/geetaseshapalli)  
+🐱 [GitHub](https://github.com/geeta-seshapalli)
 
 ## 📌 Note
 
